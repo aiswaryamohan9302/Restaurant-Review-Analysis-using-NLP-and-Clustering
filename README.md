@@ -1,4 +1,3 @@
-# Restaurant-Review-Analysis-using-NLP-and-Clustering
 # Restaurant Review Analysis using NLP and Clustering
 
 ## Project Overview
